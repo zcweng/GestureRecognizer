@@ -1,6 +1,8 @@
 # GestureRecognizer
 Gesture Recognizer FOR Android
 
+单指手势支持：点击、滑动
+多指手势支持：旋转、缩放
 
 使用方法：
 
