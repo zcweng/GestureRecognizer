@@ -4,10 +4,8 @@ Gesture Recognizer FOR Android
 
 使用方法：
 
-///
-  gestureRecognizer = GestureRecognizer.get(context);
-  gestureRecognizer.addListener(this);
-  
+        gestureRecognizer = GestureRecognizer.get(context);
+        gestureRecognizer.addListener(this);
   
         @Override
         public boolean onTouchEvent(MotionEvent event) {
